@@ -1,0 +1,9 @@
+[package]
+name = "essence-parser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ena = "0.14.4"
+im = "15.1.0"
+thiserror = "2.0.21"
